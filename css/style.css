@@ -1,0 +1,48 @@
+.head{
+    height: 100vh;
+background-image: url(./bg1.png);
+
+background-size: cover;
+color: aliceblue;
+}
+.ss{
+    height: 100vh;
+}
+
+.dd{
+    background-color: #42A03A;
+    width: 400px;
+
+}
+.svg-bg{
+    background-image: url("./blob-haikei.svg");
+    display: block;
+width: 800px;
+height: 500px;
+overflow: hidden;
+    background-size: 100% 100%;
+ 
+
+}
+.ddd{
+ max-width: 400px;
+ text-align: center;
+}
+
+
+.hh{
+font-weight: 700;
+font-size: 80;
+}
+.btn{
+    color: aliceblue;
+    padding: 20px;
+    background-color: #FB9F1E;
+    /* border: 1px rgb(0, 0, 0) solid; */
+    width: 250px;
+    height: 80px;
+transition: background-color 1s infinite;
+}
+.btn:hover{
+    background-color: chartreuse;
+}
